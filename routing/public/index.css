@@ -1,0 +1,37 @@
+.header {
+  background-color: #03a9f4;
+  text-align: center;
+  color: #c3fdff;
+  margin-left: 15%;
+  padding: 2%;
+  margin-right: 15%;
+  border: 2px solid #007ac1;
+}
+.links {
+  display: inline-flex;
+  margin-left: -8%;
+  margin: 2%;
+}
+.container {
+  font-size: 49px;
+  border: 2px solid;
+  margin: 2%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 2%;
+  text-align: center;
+  background-color: #c3fdff;
+  color: #007ac1;
+}
+
+h2 {
+  margin: 4%;
+  margin-left: -10%
+}
+h1 {
+  font-size: 52px;
+}
+
+body{
+  background-color: #e1f5fe;
+}
